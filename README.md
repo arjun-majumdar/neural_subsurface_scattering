@@ -34,7 +34,9 @@ For questions, comments, or collaborations, please contact:
 ## 🔗 Citation
 Coming soon!
 
-## Visualizations
+## 🎨 Visualization  
+The following examples illustrate the effectiveness of our neural representation for subsurface scattering.  
+We compare the **ground truth** against our **predicted relightable representations**:  
 
 <table>
   <tr>
@@ -48,5 +50,20 @@ Coming soon!
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="soap_frontview_greenwhite_checkerboard_GT.png" alt="Ground Truth" width="300px"/><br/>
+      Ground Truth
+    </td>
+    <td align="center">
+      <img src="soap_frontview_greenwhite_checkerboard_output.png" alt="Outputs" width="300px"/><br/>
+      Outputs
+    </td>
+  </tr>
+</table>
+
+
 
 
