@@ -18,22 +18,6 @@ scanning.
 2. A neural network estimates footprint responses for each point on the object which then are used to perform relighting with spatially varying light patterns in RGB colorspace of the image.
 3. Our neural network architecture is able to generalize across multiple views and multiple objects, which we verify both qualitatively and quantitatively.
 
-
-## 📊 Results
-Our method produces a relightable representation of subsurface scattering objects by predicting per-pixel, spatially varying scattering footprints from only six input images. These images are captured using high-frequency horizontal and vertical sinusoidal patterns. A trained U-Net translates the phase-shifted profilometry inputs into scattering representations, which can simultaneously be used for 3D geometry acquisition.
-Representative comparisons and visual results are provided in the paper and supplementary material.
-
-
-## 📨 Contact
-For questions, comments, or collaborations, please contact:
-1. [Arjun Majumdar] – [arjun.majumdar@uni-tuebingen.de]
-2. [Raphael Braun] - [keyraphi@gmail.com]
-3. [Prof. Dr. Hendrik Lensch] - [hendrik.lensch@uni-tuebingen.de]
-
-
-## 🔗 Citation
-Coming soon!
-
 ## 🎨 Visualization  
 The following examples illustrate the effectiveness of our neural representation for subsurface scattering.  
 We compare the **ground truth** against our **predicted relightable representations**:  
@@ -64,6 +48,34 @@ We compare the **ground truth** against our **predicted relightable representati
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="soappacha_frontview_redwhite_checker_GT.png" alt="Ground Truth" width="300px"/><br/>
+      Ground Truth
+    </td>
+    <td align="center">
+      <img src="soappacha_frontview_redwhite_checker_output.png" alt="Outputs" width="300px"/><br/>
+      Outputs
+    </td>
+  </tr>
+</table>
+
+
+## 📊 Results
+Our method produces a relightable representation of subsurface scattering objects by predicting per-pixel, spatially varying scattering footprints from only six input images. These images are captured using high-frequency horizontal and vertical sinusoidal patterns. A trained U-Net translates the phase-shifted profilometry inputs into scattering representations, which can simultaneously be used for 3D geometry acquisition.
+Representative comparisons and visual results are provided in the paper and supplementary material.
+
+
+## 📨 Contact
+For questions, comments, or collaborations, please contact:
+1. [Arjun Majumdar] – [arjun.majumdar@uni-tuebingen.de]
+2. [Raphael Braun] - [keyraphi@gmail.com]
+3. [Prof. Dr. Hendrik Lensch] - [hendrik.lensch@uni-tuebingen.de]
+
+
+## 🔗 Citation
+Coming soon!
 
 
 
