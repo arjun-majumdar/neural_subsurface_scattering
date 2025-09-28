@@ -29,8 +29,8 @@ We compare the **ground truth** against our **predicted relightable representati
       Ground Truth
     </td>
     <td align="center">
-      <img src="orange_backview_greenwhite_checkerboard_output.png" alt="Outputs" width="300px"/><br/>
-      Outputs
+      <img src="orange_backview_greenwhite_checkerboard_output.png" alt="Output" width="300px"/><br/>
+      Output
     </td>
   </tr>
 </table>
@@ -42,8 +42,8 @@ We compare the **ground truth** against our **predicted relightable representati
       Ground Truth
     </td>
     <td align="center">
-      <img src="soap_frontview_greenwhite_checkerboard_output.png" alt="Outputs" width="300px"/><br/>
-      Outputs
+      <img src="soap_frontview_greenwhite_checkerboard_output.png" alt="Output" width="300px"/><br/>
+      Output
     </td>
   </tr>
 </table>
@@ -55,8 +55,8 @@ We compare the **ground truth** against our **predicted relightable representati
       Ground Truth
     </td>
     <td align="center">
-      <img src="soappacha_frontview_redwhite_checker_output.png" alt="Outputs" width="300px"/><br/>
-      Outputs
+      <img src="soappacha_frontview_redwhite_checker_output.png" alt="Output" width="300px"/><br/>
+      Output
     </td>
   </tr>
 </table>
