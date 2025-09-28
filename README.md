@@ -26,7 +26,7 @@ Representative comparisons and visual results are provided in the paper and supp
 
 ## 📨 Contact
 For questions, comments, or collaborations, please contact:
-1. [Arjun Majumdar] – [arjun.majumdar@uni-tuebingen.de
+1. [Arjun Majumdar] – [arjun.majumdar@uni-tuebingen.de]
 2. [Raphael Braun] - [keyraphi@gmail.com]
 3. [Prof. Dr. Hendrik Lensch] - [hendrik.lensch@uni-tuebingen.de]
 
