@@ -36,14 +36,17 @@ Coming soon!
 
 ## Visualizations
 
-<p align="center">
-  <figure>
-    <img src="orange_backview_greenwhite_checkerboard_GT.png" alt="Ground Truth" width="25%"/>
-    <figcaption align="center">Ground Truth</figcaption>
-  </figure>
-  <figure>
-    <img src="orange_backview_greenwhite_checkerboard_output.png" alt="Output" width="25%"/>
-    <figcaption align="center">Ours</figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="orange_backview_greenwhite_checkerboard_GT.png" alt="Ground Truth" width="300px"/><br/>
+      Ground Truth
+    </td>
+    <td align="center">
+      <img src="orange_backview_greenwhite_checkerboard_output.png" alt="Outputs" width="300px"/><br/>
+      Outputs
+    </td>
+  </tr>
+</table>
+
 
