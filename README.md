@@ -3,7 +3,6 @@
 This repository accompanies the paper:
 
 **Neural Acquisition and Representation of Subsurface Scattering** <br>
-
 _Accepted at the International Conference on Vision, Modeling, and Visualization (VMV 2025)._
 
 ## 📖 Abstract
