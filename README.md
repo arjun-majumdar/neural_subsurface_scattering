@@ -3,7 +3,7 @@
 This repository accompanies the paper:
 
 **Neural Acquisition and Representation of Subsurface Scattering** <br>
-_Accepted at the International Conference on Vision, Modeling, and Visualization (VMV 2025)._ To read the paper and its accompanyinh supplementary, click [here](https://diglib.eg.org/items/59de7dfe-5dd8-4e22-a553-94962ca09b97).
+_Accepted at the International Conference on Vision, Modeling, and Visualization (VMV 2025)._ To read the paper and its accompanying supplementary, click [here](https://diglib.eg.org/items/59de7dfe-5dd8-4e22-a553-94962ca09b97).
 
 ## 📖 Abstract
 We present a method to acquire and estimate the sub-surface scattering properties of light transport at a highly detailed level by learning the pixel footprint response at each point on the object surface. The reconstruction leverages 3D scanning techniques as
