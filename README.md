@@ -3,7 +3,7 @@
 This repository accompanies the paper:
 
 **Neural Acquisition and Representation of Subsurface Scattering** <br>
-_Accepted at the International Conference on Vision, Modeling, and Visualization (VMV 2025)._
+_Accepted at the International Conference on Vision, Modeling, and Visualization (VMV 2025)._ To read the paper and is supplementary, you can download the paper [here](https://diglib.eg.org/items/59de7dfe-5dd8-4e22-a553-94962ca09b97).
 
 ## 📖 Abstract
 We present a method to acquire and estimate the sub-surface scattering properties of light transport at a highly detailed level by learning the pixel footprint response at each point on the object surface. The reconstruction leverages 3D scanning techniques as
@@ -79,27 +79,15 @@ For questions, comments, or collaborations, please contact:
 If you use this code, dataset, or ideas in your research, please cite our paper:  
 
 ```bibtex
-@inproceedings{10.2312:vmv.20251228
-,
-booktitle = {Vision, Modeling, and Visualization
-},
-editor = {Egger, Bernhard and 
-Günther, Tobias
-},
-title = {{Neural Acquisition & Representation of Subsurface Scattering
-}},
-author = {Majumdar, Arjun and 
-Braun, Raphael and 
-Lensch, Hendrik
-},
-year = {2025
-},
-publisher = {The Eurographics Association
-},
-ISBN = {978-3-03868-294-3
-},
-DOI = {10.2312/vmv.20251228
-}
+@inproceedings{10.2312:vmv.20251228,
+  booktitle = {Vision, Modeling, and Visualization},
+  editor = {Egger, Bernhard and Günther, Tobias},
+  title = {{Neural Acquisition & Representation of Subsurface Scattering}},
+  author = {Majumdar, Arjun and Braun, Raphael and Lensch, Hendrik},
+  year = {2025},
+  publisher = {The Eurographics Association},
+  ISBN = {978-3-03868-294-3},
+  DOI = {10.2312/vmv.20251228}
 }
 ```
 
