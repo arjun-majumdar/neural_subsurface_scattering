@@ -74,8 +74,35 @@ For questions, comments, or collaborations, please contact:
 3. [Prof. Dr. Hendrik Lensch] - [hendrik.lensch@uni-tuebingen.de]
 
 
-## 🔗 Citation
-Coming soon!
+## 📑 Citation  
+
+If you use this code, dataset, or ideas in your research, please cite our paper:  
+
+```bibtex
+@inproceedings{10.2312:vmv.20251228
+,
+booktitle = {Vision, Modeling, and Visualization
+},
+editor = {Egger, Bernhard and 
+Günther, Tobias
+},
+title = {{Neural Acquisition & Representation of Subsurface Scattering
+}},
+author = {Majumdar, Arjun and 
+Braun, Raphael and 
+Lensch, Hendrik
+},
+year = {2025
+},
+publisher = {The Eurographics Association
+},
+ISBN = {978-3-03868-294-3
+},
+DOI = {10.2312/vmv.20251228
+}
+}
+```
+
 
 
 
